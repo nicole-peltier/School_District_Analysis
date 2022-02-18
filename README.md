@@ -11,3 +11,9 @@ The files show academic dishonesty for reading and math scores for Thomas High S
   - The Percent Passing Math was 75% and decreased to 74.8%
   - The Percent Passing Reading was 86% and decreased to 64.9%
   - The Overall Passing Percent was 65% and decreased to 64.9%
+- How is the school summary affected?
+  - The school summary is not affected by this change
+  - The schools still remain in the same order
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  - Although the Thomas High School's math and reading scores barely went down their performance relative to the other schools stays the same
+- 
