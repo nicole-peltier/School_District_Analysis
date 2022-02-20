@@ -29,3 +29,9 @@ The files show academic dishonesty for reading and math scores for Thomas High S
 ## Summary
 By removing the ninth-graders math and reading scores for Thomas High Schore the only relevant changes were to the district summary. This average math score, percent passing math, percent passing reading, and overall passing percent decreased slightly. None of the other analysis, including the scores by school spending, scores by school size, and scores by school type, were affected by this change. 
 
+
+### District Summary with Thomas High School 9th Grade Scores
+![before](https://github.com/nicole-peltier/School_District_Analysis/blob/main/Resources/District%20Summary%20Before.png)
+
+### District Summary without Thomas High School 9th Grade Scores
+![after](https://github.com/nicole-peltier/School_District_Analysis/blob/main/Resources/District%20Summary%20After.png)
